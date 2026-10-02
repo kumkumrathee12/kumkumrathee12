@@ -143,9 +143,21 @@ A full-featured intelligent travel planning platform built with **Vanilla JS**, 
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kumkum--rathee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumkum-rathee-825423324/)
 [![GitHub](https://img.shields.io/badge/GitHub-kumkumrathee12-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kumkumrathee12)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Kumkumrathee__12-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Kumkumrathee_12/)
 [![SmartTour](https://img.shields.io/badge/🗺️_SmartTour-Live_Demo-7C3AED?style=for-the-badge)](https://kumkumrathee12.github.io/SmartTour/)
 [![Email](https://img.shields.io/badge/Email-kumkumrathee2@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumkumrathee2@gmail.com)
+
+</div>
+
+---
+
+## 🧩 LeetCode Stats
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Kumkumrathee_12?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/Kumkumrathee_12/)
 
 </div>
 
