@@ -116,26 +116,6 @@ A full-featured intelligent travel planning platform built with **Vanilla JS**, 
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kumkumrathee12&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kumkumrathee12&bg_color=0d1117&color=A78BFA&line=7C3AED&point=A78BFA&area=true&hide_border=false&border_color=A78BFA" alt="Activity Graph"/>
-
-</div>
-
----
-
 ## 🌱 Currently Learning
 
 ```
