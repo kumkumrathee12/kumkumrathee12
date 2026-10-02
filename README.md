@@ -161,6 +161,6 @@ A full-featured intelligent travel planning platform built with **Vanilla JS**, 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=500&lines=Thanks+for+visiting!+⭐+Star+my+repos+if+you+like+them!" alt="Footer text"/>
+**⭐ Thanks for visiting! Star my repos if you like them! ⭐**
 
 </div>
