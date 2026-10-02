@@ -3,10 +3,11 @@
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20There!%20I'm%20Kumkum%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Crafting%20digital%20experiences%20%7C%20Code%20%7C%20Create%20%7C%20Grow&descAlignY=55&descSize=18" />
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Web+Developer+🌐;DSA+%26+Problem+Solver+🧠;Building+Real-World+Projects+🚀;Always+Learning%2C+Always+Growing+🌱" alt="Typing SVG" />
-</a>
+<!-- Role Badges -->
+![Full-Stack Web Developer](https://img.shields.io/badge/Full--Stack%20Web%20Developer-🌐-A78BFA?style=flat-square&labelColor=0d1117&color=A78BFA)
+![DSA & Problem Solver](https://img.shields.io/badge/DSA%20%26%20Problem%20Solver-🧠-7C3AED?style=flat-square&labelColor=0d1117&color=7C3AED)
+![Real-World Projects](https://img.shields.io/badge/Building%20Real--World%20Projects-🚀-6D28D9?style=flat-square&labelColor=0d1117&color=6D28D9)
+![Always Learning](https://img.shields.io/badge/Always%20Learning%2C%20Always%20Growing-🌱-5B21B6?style=flat-square&labelColor=0d1117&color=5B21B6)
 
 <br/>
 
