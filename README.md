@@ -133,7 +133,7 @@ A full-featured intelligent travel planning platform built with **Vanilla JS**, 
 
 <div align="center">
 
-> *"Every expert was once a beginner. Keep building, keep learning, keep growing."* 🌱
+### ***"Every expert was once a beginner. Keep building, keep learning, keep growing."*** 🌱
 
 </div>
 
