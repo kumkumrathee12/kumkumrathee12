@@ -9,15 +9,6 @@
 ![Real-World Projects](https://img.shields.io/badge/Building%20Real--World%20Projects-🚀-6D28D9?style=flat-square&labelColor=0d1117&color=6D28D9)
 ![Always Learning](https://img.shields.io/badge/Always%20Learning%2C%20Always%20Growing-🌱-5B21B6?style=flat-square&labelColor=0d1117&color=5B21B6)
 
-<br/>
-
-<!-- Profile Views & Followers Badges -->
-<img src="https://komarev.com/ghpvc/?username=kumkumrathee12&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-&nbsp;
-<a href="https://github.com/kumkumrathee12?tab=followers">
-  <img src="https://img.shields.io/github/followers/kumkumrathee12?style=for-the-badge&color=blueviolet&labelColor=1a1a2e" alt="Followers"/>
-</a>
-
 </div>
 
 ---
