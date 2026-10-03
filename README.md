@@ -49,6 +49,8 @@ const kumkum = {
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 
 ### 🗄️ Database & Storage
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Cloud Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![JSON](https://img.shields.io/badge/JSON_DB-000000?style=for-the-badge&logo=json&logoColor=white)
 ![LocalStorage](https://img.shields.io/badge/LocalStorage-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
 
@@ -67,11 +69,31 @@ const kumkum = {
 
 <div align="center">
 
+<a href="https://github.com/kumkumrathee12/smartSync">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kumkumrathee12&repo=smartSync&theme=tokyonight&border_color=A78BFA&title_color=A78BFA&icon_color=A78BFA&v=2" alt="SmartSync"/>
+</a>
 <a href="https://github.com/kumkumrathee12/SmartTour">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kumkumrathee12&repo=SmartTour&theme=tokyonight&border_color=A78BFA&title_color=A78BFA&icon_color=A78BFA" alt="SmartTour"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kumkumrathee12&repo=SmartTour&theme=tokyonight&border_color=A78BFA&title_color=A78BFA&icon_color=A78BFA&v=2" alt="SmartTour"/>
 </a>
 
 </div>
+
+### 🚚 [SmartSync](https://kumkumrathee12.github.io/smartSync/) — Next-Gen Logistics & Supply Chain Platform
+
+> 🌐 **Live Demo**: [kumkumrathee12.github.io/smartSync](https://kumkumrathee12.github.io/smartSync/)
+
+A modern, full-featured cloud logistics management platform built with **Vanilla JS**, **HTML/CSS**, and **Firebase**.
+
+| Feature | Tech |
+|---------|------|
+| 📦 5-Stage Live Shipment Tracker | JavaScript ES6+ |
+| 🗺️ Distance & Route Planning | Google Maps API |
+| 🏭 Warehouse Loading Dock Booking | JavaScript + Firestore |
+| 🔐 Dual-Mode Auth (Firebase + Demo) | Firebase Auth v10 |
+| 🤖 AI Logistics Support Assistant | Pure JS |
+| 📑 PDF Architecture Documentation | Chromium Headless |
+
+---
 
 ### ✈️ [SmartTour](https://kumkumrathee12.github.io/SmartTour/) — AI-Powered Travel Planning Platform
 
@@ -94,15 +116,15 @@ A full-featured intelligent travel planning platform built with **Vanilla JS**, 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kumkumrathee12&show_icons=true&theme=tokyonight&border_color=A78BFA&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&bg_color=0d1117&hide_border=false&count_private=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kumkumrathee12&show_icons=true&theme=tokyonight&border_color=A78BFA&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&bg_color=0d1117&hide_border=false&count_private=true&cache_seconds=1800&v=2" alt="GitHub Stats"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumkumrathee12&layout=compact&theme=tokyonight&border_color=A78BFA&title_color=A78BFA&text_color=c9d1d9&bg_color=0d1117&hide_border=false" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumkumrathee12&layout=compact&theme=tokyonight&border_color=A78BFA&title_color=A78BFA&text_color=c9d1d9&bg_color=0d1117&hide_border=false&cache_seconds=1800&v=2" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kumkumrathee12&theme=tokyonight&border=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakNum=ffffff&sideNums=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&background=0d1117" alt="GitHub Streak"
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kumkumrathee12&theme=tokyonight&border=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakNum=ffffff&sideNums=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&background=0d1117&v=2" alt="GitHub Streak"
 />
 
 </div>
