@@ -102,7 +102,8 @@ A full-featured intelligent travel planning platform built with **Vanilla JS**, 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kumkumrathee12&theme=tokyonight&border=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakNum=ffffff&sideNums=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&background=0d1117" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kumkumrathee12&theme=tokyonight&border=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakNum=ffffff&sideNums=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&background=0d1117" alt="GitHub Streak"&cache_seconds=1800
+/>
 
 </div>
 
